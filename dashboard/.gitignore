@@ -1,0 +1,9 @@
+*.log
+*.pyc
+__pycache__/
+.DS_Store
+logs/
+.env
+*.swp
+*.swo
+*~

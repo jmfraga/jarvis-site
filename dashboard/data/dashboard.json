@@ -1,0 +1,72 @@
+{
+  "jarvis": {
+    "status": "Phoenix 4.0 en línea 🐦🔥",
+    "version": "OpenClaw 2026.2.2-3",
+    "thinking": false
+  },
+  "iris": {
+    "status": "online",
+    "version": "2026.2.2-3",
+    "model": "anthropic/claude-opus-4-5",
+    "openclaw": {
+      "version": "2026.2.2-3",
+      "model": "anthropic/claude-opus-4-5",
+      "contextPercent": 15
+    },
+    "system": {
+      "cpu": 3,
+      "ram": 9,
+      "temp": 52,
+      "disk": 13
+    },
+    "uptime": 86400,
+    "timestamp": "2026-02-05T12:00:00-06:00",
+    "pendingPairs": 0
+  },
+  "fleet": {
+    "status": "🟢 Ambos sistemas operativos"
+  },
+  "weather": {
+    "icon": "⛅",
+    "temp": "18°C",
+    "desc": "Querétaro",
+    "tip": "🌤️ Buen día para salir"
+  },
+  "model": {
+    "name": "opus-4-5",
+    "contextPercent": 25,
+    "usageDay": "85% left",
+    "usageWeek": "70% left"
+  },
+  "system": {
+    "cpu": 12,
+    "ram": 45,
+    "disk": 3
+  },
+  "calendar": [
+    {"time": "09:00", "title": "Standup diario"},
+    {"time": "11:00", "title": "Reunión con equipo"},
+    {"time": "14:00", "title": "Revisión de proyecto"},
+    {"time": "16:00", "title": "Llamada cliente"}
+  ],
+  "kanban": [
+    "✅ Setup inicial completado",
+    "📄 Documentación pendiente",
+    "🔌 Integración API",
+    "🧪 Testing automatizado"
+  ],
+  "thought": "Demo mode - Multi-Agent Dashboard 🐦‍🔥",
+  "notification": "Dashboard funcionando correctamente",
+  "exercise": {
+    "days": {
+      "lun": true,
+      "mar": true,
+      "mie": false,
+      "jue": true,
+      "vie": false,
+      "sab": false,
+      "dom": false
+    },
+    "goal": 4
+  }
+}
